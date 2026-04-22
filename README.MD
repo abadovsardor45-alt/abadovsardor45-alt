@@ -7,13 +7,13 @@
 <!-- 🎮 TYPING -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=26&center=true&vCenter=true&width=700&lines=Hi+I'm+Shixnazar+👋;Frontend+Developer;Game+Developer;Tetris+Lover+🎮;Always+leveling+up+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=26&center=true&vCenter=true&width=700&lines=Hi+I'm+Shixnazar+👋;Frontend+Developer;Game+Developer;Tetris+Style+🎮;Always+leveling+up+🚀" />
 </p>
 
-<!-- 🎮 TETRIS GIF -->
+<!-- 🎮 TETRIS VIDEO STYLE GIF -->
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="400"/>
+  <img src="https://media.giphy.com/media/l0HlQ7LRalQqdWfao/giphy.gif" width="420"/>
 </p>
 
 ---
@@ -55,16 +55,6 @@
 
 ---
 
-## 🎮 PLAY TETRIS
-
-<p align="center">
-  <a href="https://tetris.com/play-tetris">
-    <img src="https://img.shields.io/badge/PLAY%20TETRIS-00F7FF?style=for-the-badge&logo=gamepad&logoColor=black"/>
-  </a>
-</p>
-
----
-
 ## 💼 PROJECTS
 
 <p align="center">
@@ -81,4 +71,4 @@
 
 ---
 
-🎮 *Keep coding like Tetris — every block matters.* 🎮
+🎮 *Play smart. Code smarter.* 🎮
