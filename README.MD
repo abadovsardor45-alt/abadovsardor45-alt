@@ -1,23 +1,29 @@
-<!-- 🌌 CLEAN NEON HEADER -->
+<!-- 🌌 NEON HEADER -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=180&section=header&text=SARDOR%20DEV&fontSize=45&fontColor=00F7FF&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=200&section=header&text=SHIXNAZAR%20DEV&fontSize=45&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<!-- ⚡ Typing -->
+<!-- 🎯 Typing -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=26&center=true&vCenter=true&width=600&lines=Frontend+Developer;Game+Developer;Telegram+Bot+Creator;Always+learning+new+things" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=26&center=true&vCenter=true&width=700&lines=Hi+I'm+Shixnazar+👋;Frontend+Developer;Game+Developer;Telegram+Bot+Creator;Always+leveling+up+🚀" />
+</p>
+
+<!-- 🎈 BALLOON ANIMATION -->
+
+<p align="center">
+  <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="250"/>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-* 🚀 Building modern **React apps**
-* 🎮 Developing **browser games**
-* 🤖 Creating **Telegram bots**
-* ⚡ Focus: Performance + UI/UX
+* 🚀 React & JavaScript developer
+* 🎮 Browser game creator
+* 🤖 Telegram bot builder
+* ⚡ Clean UI + animations lover
 
 ---
 
@@ -29,7 +35,7 @@
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abadovsardor45-alt&show_icons=true&theme=tokyonight&hide_border=true"/>
@@ -47,27 +53,18 @@
 
 ---
 
-## 🧠 Coding Time (WakaTime)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## 💼 Featured Projects
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abadovsardor45-alt&repo=YOUR_PROJECT&theme=tokyonight"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abadovsardor45-alt&repo=YOUR_PROJECT2&theme=tokyonight"/>
-</p>
-
----
-
-## 🐍 Contribution Snake
+## 🐍 Snake Game
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/abadovsardor45-alt/abadovsardor45-alt/output/github-contribution-grid-snake.svg"/>
+</p>
+
+---
+
+## 💼 Projects
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abadovsardor45-alt&repo=YOUR_PROJECT&theme=tokyonight"/>
 </p>
 
 ---
@@ -80,4 +77,4 @@
 
 ---
 
-⚡ *Keep building. Stay consistent.*
+🎈 *Keep coding & fly higher!* 🎈
