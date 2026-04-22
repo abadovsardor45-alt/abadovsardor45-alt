@@ -1,31 +1,37 @@
-<!-- 🌌 NEON HEADER -->
+<!-- 🌌 PREMIUM HEADER -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=200&section=header&text=SHIXNAZAR%20DEV&fontSize=45&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<!-- 🎮 TYPING -->
+---
+
+<!-- ⚡ ANIMATED TEXT -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=26&center=true&vCenter=true&width=700&lines=Hi+I'm+Shixnazar+👋;Frontend+Developer;Game+Developer;Tetris+Style+🎮;Always+leveling+up+🚀" />
-</p>
-
-<!-- 🎮 TETRIS VIDEO STYLE GIF -->
-
-<p align="center">
-  <img src="https://media.giphy.com/media/l0HlQ7LRalQqdWfao/giphy.gif" width="420"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=26&center=true&vCenter=true&width=700&lines=Hi+I'm+Shixnazar+👋;Frontend+Developer;Game+Developer;Telegram+Bot+Creator;Building+cool+UI+🚀" />
 </p>
 
 ---
 
-## 👾 PLAYER INFO
+## 🎮 ARCADE VIBE (Tetris o‘rniga PRO GIF)
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="230"/>
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="420"/>
+</p>
 
-* 👤 Name: **Shixnazar**
-* 🎮 Mode: **Developer**
-* ⚡ Skills: React, JS, Node
-* 🎯 Mission: Build cool apps & games
+<p align="center">
+  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="420"/>
+</p>
+
+---
+
+## 👨‍💻 ABOUT ME
+
+* 🚀 React & JavaScript Developer
+* 🎮 Game & UI developer
+* 🤖 Telegram bot creator
+* ⚡ Focus: Clean design + performance
 
 ---
 
@@ -37,28 +43,22 @@
 
 ---
 
-## 📊 STATS
+## 📊 GITHUB STATS
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abadovsardor45-alt&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <br/>
+</p>
+
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=abadovsardor45-alt&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## 📈 ACTIVITY
+## 📈 ACTIVITY GRAPH
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=abadovsardor45-alt&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
-## 💼 PROJECTS
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abadovsardor45-alt&repo=YOUR_PROJECT&theme=tokyonight"/>
 </p>
 
 ---
@@ -71,4 +71,4 @@
 
 ---
 
-🎮 *Play smart. Code smarter.* 🎮
+🔥 *Clean code. Clean UI. Big impact.*
