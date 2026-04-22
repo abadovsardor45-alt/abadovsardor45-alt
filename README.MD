@@ -31,8 +31,8 @@
 ## 📊 GITHUB STATS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abadovsardov45-alt&show_icons=true&theme=tokyonight&hide_border=true" width="450"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abadovsardov45-alt&theme=tokyonight&hide_border=true" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=abadovsardor45-alt&show_icons=true&theme=tokyonight&hide_border=true" width="450"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abadovsardor45-alt&theme=tokyonight&hide_border=true" width="450"/>
 </p>
 
 ---
@@ -40,7 +40,7 @@
 ## 🌌 ACTIVITY GRAPH
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abadovsardov45-alt&theme=tokyo-night&bg_color=0d1117&color=00F7FF&line=FF00FF&point=ffffff&area=true&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abadovsardor45-alt&theme=tokyo-night&bg_color=0d1117&color=00F7FF&line=FF00FF&point=ffffff&area=true&hide_border=true"/>
 </p>
 
 ---
@@ -48,7 +48,7 @@
 ## 📈 PROFILE VIEWS
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abadovsardov45-alt&label=PROFILE%20VIEWS&color=00F7FF&style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=abadovsardor45-alt&label=PROFILE%20VIEWS&color=00F7FF&style=for-the-badge"/>
 </p>
 
 ---
@@ -56,20 +56,10 @@
 ## 🔗 SOCIALS
 
 <p align="center">
-  <a href="https://github.com/abadovsardov45-alt">
+  <a href="https://github.com/abadovsardor45-alt">
     <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github"/>
   </a>
 </p>
-
----
-
-## ⚡ ULTRA FEATURES
-
-- ✔ Clean UI
-- ✔ Working GitHub stats
-- ✔ No broken widgets
-- ✔ Fast loading
-- ✔ Mobile friendly
 
 ---
 
