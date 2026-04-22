@@ -1,58 +1,104 @@
-# ?? Hi there, I'm Shixnazar
+<!-- 🌌 NEON BANNER (Custom Style) -->
 
-?? Frontend Developer | ?? Game Developer | ?? Bot Creator
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=200&section=header&text=SARDOR%20DEV&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</p>
 
----
+<!-- 🔥 Typing Animation -->
 
-## ?? About Me
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=🎮+Game+Developer;💻+Frontend+Engineer;🤖+Bot+Creator;⚡+Building+Cool+Things" />
+</p>
 
-* ?? I�m currently working on **React & JavaScript projects**
-* ?? Building **Telegram Bots (YouTube downloader, weather, etc.)**
-* ?? Interested in **browser games (Shooter, Tetris, Snake)**
-* ?? Learning **Advanced React & Backend (Firebase, Node.js)**
+<!-- 🎮 GAME GIF -->
 
----
-
-## ??? Tech Stack
-
-?? Frontend:
-
-* HTML, CSS, JavaScript
-* React, Redux
-
-?? Backend:
-
-* Node.js
-* Firebase
-
-??? Tools:
-
-* Git & GitHub
-* VS Code
+<p align="center">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="500"/>
+</p>
 
 ---
 
-## ?? GitHub Stats
+## 🎮 PLAYER PROFILE
 
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight)
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250"/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=tokyonight)
-
----
-
-## ?? Streak Stats
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME\&theme=tokyonight)
+* 👤 Name: **Sardor**
+* 🧠 Skills: React, JS, Node, Firebase
+* 🎯 Mission: Build **next-level apps & games**
+* ⚡ Power: Clean UI + Animations
 
 ---
 
-## ?? Connect with me
+## 🛠️ LOADOUT (Tech Stack)
 
-* Telegram: @yourusername
-* Email: [your@email.com](mailto:your@email.com)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,nodejs,firebase,git,github,vscode" />
+</p>
 
 ---
 
-## ? Fun Fact
+## 📈 XP STATS (GitHub Stats)
 
-?? I love building **interactive apps & games** ??
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abadovsardor45-alt&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abadovsardor45-alt&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+</p>
+
+---
+
+## 🔥 COMBO STREAK
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=abadovsardor45-alt&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🧠 REAL CODING STATS (WakaTime)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 📈 LIVE VISITORS
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=abadovsardor45-alt&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" />
+</p>
+
+---
+
+## 💼 PORTFOLIO (PROJECTS)
+
+<p align="center">
+  <a href="https://github.com/abadovsardor45-alt">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abadovsardor45-alt&repo=YOUR_PROJECT&theme=tokyonight"/>
+  </a>
+  <a href="https://github.com/abadovsardor45-alt">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abadovsardor45-alt&repo=YOUR_PROJECT2&theme=tokyonight"/>
+  </a>
+</p>
+
+---
+
+## 🐍 SNAKE GAME
+
+<p align="center">
+  <img src="https://github.com/abadovsardor45-alt/abadovsardor45-alt/blob/output/github-contribution-grid-snake.svg"/>
+</p>
+
+---
+
+## 🌐 CONNECT
+
+<p align="center">
+  <a href="https://t.me/yourusername">
+    <img src="https://img.shields.io/badge/Telegram-00F7FF?style=for-the-badge&logo=telegram&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+🎮 *LEVEL UP YOUR CODE EVERYDAY* 🎮
