@@ -12,7 +12,7 @@
 
 ## 🧬 ABOUT ME
 
-- 👤 Name: Abadov Shixnazar
+- 👤 Name: Obodov Shixnazar
 - ⚡ Username: `abadovsardor45-alt`
 - 💻 Role: Fullstack Developer
 - 🎯 Focus: Web / Bots / UI
