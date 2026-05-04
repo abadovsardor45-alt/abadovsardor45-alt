@@ -37,7 +37,6 @@
      style="width: 80%; height: auto;" />
 </div>
 
-<img src="https://github.com/user-attachments/assets/2127c7c0-3cbb-41f4-849b-18bed46529ca" style="width: 100%;" />
 
 <h2 align="center">📊 GitHub Stats</h2>
 
