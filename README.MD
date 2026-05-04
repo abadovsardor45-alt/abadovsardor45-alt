@@ -9,9 +9,9 @@
 
 * 🔭 Telegram botlar va web ilovalar ustida ishlayman
 * ⚙️ Stack: **Python (Django), JavaScript (React)**
-* 🤖 Downloader botlar, weather bot va automation loyihalar qilganman
-* 🎮 **Interactive browser games** ham yarataman (JS)
-* 🚀 Maqsad: professional Full Stack Developer bo‘lish
+* 🤖 YouTube / Instagram downloader bot, weather bot va automation loyihalar qilganman
+* 🎮 Interactive **browser-based games** ham yarataman
+* 🚀 Maqsad: kuchli Full Stack Developer bo‘lish
 
 ---
 
@@ -25,20 +25,20 @@
 
 ## 🎮 Game Development
 
-* 🐍 Snake Game (JavaScript, Canvas)
-* 🔫 Shooter Game (player movement + enemy AI + health system)
-* 🖱️ Clicker Game (progression system)
-* 💣 Mini browser games (pure JS)
+* 🐍 Snake Game — **Canvas + JavaScript**
+* 🔫 Shooter Game — **player movement, enemy AI, health system**
+* 🖱️ Clicker Game — **progression & upgrade system**
+* ⚡ Mini games — **pure JavaScript (DOM + animations)**
 
-> 🎯 Fokus: **game logic, animation, user interaction**
+> 🎯 Fokus: logic, performance, user interaction
 
 ---
 
 ## 🤖 Projects
 
-* Telegram Multi Bot (YouTube/Instagram downloader + weather + music)
+* Telegram Multi Bot (video/audio downloader, weather, music)
 * Django Task Manager (admin panel + UI dashboard)
-* API-based web apps (dynamic data + filtering)
+* API-based web apps (dynamic data, filtering, real-time updates)
 
 ---
 
