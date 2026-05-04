@@ -1,3 +1,118 @@
+Skip to content
+abadovsardor45-alt
+abadovsardor45-alt
+Repository navigation
+Code
+Issues
+Pull requests
+Agents
+Actions
+Projects
+Wiki
+Security and quality
+Insights
+Settings
+Files
+Go to file
+t
+T
+README.MD
+abadovsardor45-alt/abadovsardor45-alt is a special repository: its README.md will appear on your profile!
+abadovsardor45-alt
+/
+README.MD
+in
+main
+
+Edit
+
+Preview
+Indent mode
+
+Spaces
+Indent size
+
+2
+Line wrap mode
+
+Soft wrap
+Editing README.MD file contents
+  1
+  2
+  3
+  4
+  5
+  6
+  7
+  8
+  9
+ 10
+ 11
+ 12
+ 13
+ 14
+ 15
+ 16
+ 17
+ 18
+ 19
+ 20
+ 21
+ 22
+ 23
+ 24
+ 25
+ 26
+ 27
+ 28
+ 29
+ 30
+ 31
+ 32
+ 33
+ 34
+ 35
+ 36
+ 37
+ 38
+ 39
+ 40
+ 41
+ 42
+ 43
+ 44
+ 45
+ 46
+ 47
+ 48
+ 49
+ 50
+ 51
+ 52
+ 53
+ 54
+ 55
+ 56
+ 57
+ 58
+ 59
+ 60
+ 61
+ 62
+ 63
+ 64
+ 65
+ 66
+ 67
+ 68
+ 69
+ 70
+ 71
+ 72
+ 73
+ 74
+ 75
+ 76
 ![Bottom_up](https://github.com/user-attachments/assets/55711378-b70b-4895-a1e3-f7f75a512312)
 
    
@@ -74,157 +189,4 @@
 <h2 align="center">📊 github stats</h2>
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=Zuhriddin2010&theme=dark&hide_border=true&exclude_days=Tue" alt="GitHub Streak" />
-  </a>
-<br><br>
-
-
-
-
-![metrics plugin pagespeed detailed](https://github.com/user-attachments/assets/6a705373-1f97-4906-a568-5cc7a156ac78)
-
-
-
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zuhriddin2010&bg_color=0D1117&color=39d353&line=39d353&point=FFFFFF&area=true&hide_border=true" width="100%" />
-</p>
-
-
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Zuhriddin2010?cardType=github&theme=dark&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
-
-
-
-
-<table border="0">
-  <tr>
-    <td>
-<img src="https://github.com/user-attachments/assets/37fdf2a9-f432-4f60-8356-cf784a49d3d1" width="519" />
- </td>
-    <td>
-<img src="https://github.com/user-attachments/assets/af525c4e-6f9d-408b-9247-8595bd18a92f" width="519" />
- </td>
-    </tr>
-</table>
-
-
-
-
-
-
-
-<p align="center">
-<img src="https://github.com/user-attachments/assets/919cf68a-b267-4f65-81e2-ca9fa4a7cab7" width="519" />
-</p>
-
-
-
-
-
-
-
-
-
-<!--img status-->
-
-
-<table border="0">
-  <tr>
-    <td>
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Zuhriddin2010&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=9f7aea&text_color=ffffff" alt="Zuhriddin Stats" height="195px" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Zuhriddin2010&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=9f7aea&text_color=ffffff" alt="Top Languages" height="195px" />
-    </td>
-  </tr>
-</table>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!--skils-->
-
-<h2 align="center">🚀 Mening ko'nikmalarim:</h2>
-
-
-<!--chiziqni kodi-->
-<img src="https://github.com/user-attachments/assets/2127c7c0-3cbb-41f4-849b-18bed46529ca" 
-     style="width: 100%; height: auto; display: block; margin: 0; padding: 0;" 
-     alt="Rainbow Line">
-
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode&theme=dark" />
-  </a>
-</p>
-
-
-
-
-
-
-
-
-
-
-<!--chiziqni kodi-->
-<img src="https://github.com/user-attachments/assets/2127c7c0-3cbb-41f4-849b-18bed46529ca" 
-     style="width: 100%; height: auto; display: block; margin: 0; padding: 0;" 
-     alt="Rainbow Line">
-
- 
-
-
-
-
-
-<!--bog`lanish-->
-<h2 align="center">📩 Connect with me:</h2>
-
-<p align="center">
-  <a href="https://mail.google.com/mail/u/0/#inboxs">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://t.me/zuh1riddin20100">
-    <img src="https://img.shields.io/badge/Telegram-26A5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/zuh1riddin._/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/zuhriddin-qadamboyev-b20389391/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a> 
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://fullportf.netlify.app/">
-    <img src="https://img.shields.io/badge/Old_Portfolio-3498DB?style=for-the-badge&logo=netlify&logoColor=white" alt="Old Website" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://qadamboyev1.vercel.app/">
-    <img src="https://img.shields.io/badge/New_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="New Website" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://robocontest.uz/profile/zuhriddin2010">
-    <img src="https://img.shields.io/badge/RoboContest-007ACC?style=for-the-badge&logo=codeforces&logoColor=white" alt="RoboContest" />
-  </a>
-</p>
-
-
-
-
-
-![68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d303539363639266865696768743d3130302673656374696f6e3d666f6f746572](https://github.com/user-attachments/assets/06a082d0-1bd0-48ad-b98a-7ca7fe84c1c5)
+Use Control + Shift + m to toggle the tab key moving focus. Alternatively, use esc then tab to move to the next interactive element on the page.
