@@ -32,10 +32,8 @@
 
 ![img](https://github.com/user-attachments/assets/83f982fb-4753-4e05-83a4-e8806d971adb)
 
-<div align="center">   
-<img src="https://github.com/user-attachments/assets/c6dbd900-4200-42fb-affc-752a17bce4fe"
-     style="width: 80%; height: auto;" />
-</div>
+
+
 
 
 <h2 align="center">📊 GitHub Stats</h2>
