@@ -19,3 +19,61 @@
   </a>
 </div>
 
+<!-- Profile Views -->
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=abadovsardor45-alt&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+![snake](https://github.com/user-attachments/assets/da266024-63a4-4d84-8d29-a5b1ed013cd2)
+
+![custom-dark](https://github.com/user-attachments/assets/7a7b9a79-76d8-4ae9-8222-ab7eb32638fd)
+
+![github-snake-dark](https://github.com/user-attachments/assets/b365fb6d-736a-4739-8701-03eafc903539)
+
+![img](https://github.com/user-attachments/assets/83f982fb-4753-4e05-83a4-e8806d971adb)
+
+
+
+
+
+<h2 align="center">📊 GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=abadovsardor45-alt&theme=dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abadovsardor45-alt&bg_color=0D1117&color=39d353&line=39d353&point=FFFFFF&area=true&hide_border=true" width="100%" />
+</p>
+
+
+
+<table border="0">
+  <tr>
+    <td>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=abadovsardor45-alt&show_icons=true&theme=tokyonight&hide_border=true" />
+    </td>
+    <td>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=abadovsardor45-alt&layout=compact&theme=tokyonight&hide_border=true" />
+    </td>
+  </tr>
+</table>
+
+<h2 align="center">🚀 skills</h2>
+
+<img src="https://github.com/user-attachments/assets/2127c7c0-3cbb-41f4-849b-18bed46529ca" style="width: 100%;" />
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,django,git,github,vscode&theme=dark" />
+</p>
+
+<img src="https://github.com/user-attachments/assets/2127c7c0-3cbb-41f4-849b-18bed46529ca" style="width: 100%;" />
+
+<h2 align="center">📩 Connect with me</h2>
+
+<p align="center">
+  <a href="https://github.com/abadovsardor45-alt">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
+  </a>
+</p>
