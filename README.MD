@@ -5,3 +5,9 @@
 </div>
 
 
+<!-- Stars -->
+
+<div align="center">
+  <img src="https://img.shields.io/github/stars/abadovsardor45-alt/abadovsardor45-alt?label=STARS&color=gold&style=flat-square" />
+</div>
+
