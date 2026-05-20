@@ -11,3 +11,11 @@
   <img src="https://img.shields.io/github/stars/abadovsardor45-alt/abadovsardor45-alt?label=STARS&color=gold&style=flat-square" />
 </div>
 
+<!-- Followers -->
+
+<div align="center">
+  <a href="https://github.com/abadovsardor45-alt">
+    <img src="https://img.shields.io/github/followers/abadovsardor45-alt?label=FOLLOWERS&color=ff6b6b&style=flat-square" />
+  </a>
+</div>
+
